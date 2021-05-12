@@ -1,5 +1,5 @@
 # Fall_Detection
-Patient Fall Detection using Haar Cascades
+Implemented a fall detection application using python, opencv and haar cascades. The application raises an alarm whenever a person falls or faints in the video feed.
 
 
 ![image](https://user-images.githubusercontent.com/83297868/117915928-3c45d900-b2b4-11eb-8706-9c57e2694e26.png)
