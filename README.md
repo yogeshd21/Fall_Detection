@@ -1,4 +1,4 @@
-# Fall_Detection
+# Fall Detection
 Implemented a fall detection application using python, opencv and haar cascades. The application raises an alarm whenever a person falls or faints in the video feed.
 
 
